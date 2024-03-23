@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless
 pytesseract==0.3.8
 googletrans==4.0.0-rc1
 gtts==2.2.3
